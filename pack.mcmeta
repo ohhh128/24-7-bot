@@ -1,0 +1,29 @@
+
+		
+{
+  "pack": {
+	"pack_format": 18,
+	"supported_formats": [18, 100],
+	"min_format": 18,
+	"max_format": 100,
+	"description": "§2by §6§lJulian2Craft §8§r& §7§lGhostleyL"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"directory": "overlay_34",
+				"formats": [18,34],
+				"min_format": 18, 
+				"max_format": 34 
+			},
+			{
+				"directory": "overlay_55",
+				"formats": [42,55],
+				"min_format": 42, 
+				"max_format": 55 
+			}
+			
+		]
+	}
+}
+
